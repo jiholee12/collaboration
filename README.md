@@ -8,4 +8,4 @@
 
 ### Pull Request Practice
 
-Please add one line of `<li>your GitHub ID</li>` and send me a Pull Request.
+Please add one line of `<li>leejiho12</li>` and send me a Pull Request.
